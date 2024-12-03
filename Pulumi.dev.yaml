@@ -1,0 +1,9 @@
+config:
+  azure-native:location: westeurope
+  azure:location: westeurope
+  azure:vmName: monitored-linux-vm
+  azure:image: Ubuntu2204
+  azure:size: Standard_B1s
+  azure:adminUsername: azureuser
+  azure:adminPassword:
+    secure: AAABAI8rFjSWoxz91ORQYHMCLDTk/r0E2lALZak5Mun8ixrS9DOP+n0opjn2YHFCNUO3hi+Daw==
